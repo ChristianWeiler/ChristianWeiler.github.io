@@ -3,27 +3,10 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+## Research
 
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
-
-There are currently two themes built on Poole:
-
-- [Hyde](https://hyde.getpoole.com)
-- [Lanyon](https://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-- Built for [Jekyll](https://jekyllrb.com)
-- Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-- Coded with [Atom](https://atom.io), an amazing open source code editor
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+[TPS#15279](https://www.nagios.com/downloads/nagios-xi/change-log/): Privilege escalation to root via sudo on shell script
+[TPS#15278](https://www.nagios.com/downloads/nagios-xi/change-log/): Command injection in PDF report generation
+[TPS#15277](https://www.nagios.com/downloads/nagios-xi/change-log/): Stored XSS in the Admin Manage Users dashboard via user's phone number
+[CVE-2020-14475](https://github.com/Dolibarr/dolibarr/commit/22ca5e067189bffe8066df26df923a386f044c08): Reflected XSS in Dolibarr ERP CRM
+[CVE-2020-14443](https://github.com/Dolibarr/dolibarr/commit/40e16672e3aa4e9208ea7a4829f30507dcdfc4ba): Blind Boolean SQL Injection in Dolibarr ERP CRM

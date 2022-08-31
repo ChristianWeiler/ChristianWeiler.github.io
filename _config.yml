@@ -1,6 +1,6 @@
 # Setup
-title: Dark Poole
-url: https://getpoole.com
+title: Christian Weiler - Blog
+url: https://christianweiler.com
 paginate: 1
 baseurl: ""
 permalink: pretty
@@ -32,9 +32,9 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Mark Otto
-  url: https://twitter.com/mdo
-  email: markdotto@gmail.com
+  name: Christian Weiler
+  url: https://www.linkedin.com/in/christianjweiler/
+  email: weiler.christian.j@gmail.com
 
 # Custom vars
 version: 3.0.0
