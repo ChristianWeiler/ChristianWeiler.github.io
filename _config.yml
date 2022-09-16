@@ -33,8 +33,8 @@ sass:
 # Specify the author for blog posts
 author:
   name: Christian Weiler
-  url: https://www.linkedin.com/in/christianjweiler/
-  email: weiler.christian.j@gmail.com
+  url: https://christianweiler.com
+  email: contact@christianweiler.com
 
 # Custom vars
 version: 3.0.0

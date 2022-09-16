@@ -9,7 +9,7 @@ During an engagement on a client's network, I came across a device running [Haiv
 
 Searching Google for "Haivision Kraken default password" shows some uploaded user's guides that contain the default credentials of `haiadmin:manager` for the web interface. While the default ssh account username of `hvroot` was discoverable in the user's guide, I could not find the default password that was associated with the account.
 
-My next step was to try and get access to a trial to view source for the application. After browsing their website I didn't see an easy way to get access to trail. However, they did offer a cloud instance in [Azure Marketplace](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/haivisionsystemsinc1580780591922.haivision-kraken) and [AWS Marketplace](https://aws.amazon.com/marketplace/pp/prodview-irfl3yfrpjcqo?sr=0-5&ref_=beagle&applicationId=AWSMPContessa) that you could use to create your own instance.
+My next step was to try and get access to a trial to the view source code for the application. After browsing their website I didn't see an easy way to get access to trail. However, they did offer a cloud instance in [Azure Marketplace](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/haivisionsystemsinc1580780591922.haivision-kraken) and [AWS Marketplace](https://aws.amazon.com/marketplace/pp/prodview-irfl3yfrpjcqo?sr=0-5&ref_=beagle&applicationId=AWSMPContessa) that you could use to create your own instance.
 
 ![Azure marketplace](https://christianweiler.com/assets/2022-09-12/kraken_azure_marketplace.png)
 

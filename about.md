@@ -3,6 +3,12 @@ layout: page
 title: About
 ---
 
+## Whoami
+
+Christian Weiler (OSCP, OSCE3)
+contact@christianweiler.com | [Github](https://github.com/ChristianWeiler) | [LinkedIn](https://www.linkedin.com/in/christianjweiler/)
+
+
 ## Research
 
 [TPS#15279](https://www.nagios.com/downloads/nagios-xi/change-log/): Privilege escalation to root via sudo on shell script in Nagios XI 5.7.3
